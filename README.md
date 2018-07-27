@@ -3,8 +3,8 @@
 * JavaSE
 * Linux
 * Hadoop
+* Hive
 * Zookeeper
 * Kafka
-
 * Scala
 * Spark
